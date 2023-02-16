@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aytaç Sinan Yayden</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h1 align="center">Hey 👋, I'm Aytaç Sinan Yaydem</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aytacyaydem&label=Profile%20views&color=0e75b6&style=flat" alt="aytacyaydem" /> </p>
 
