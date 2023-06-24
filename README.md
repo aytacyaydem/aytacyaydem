@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aytacyaydem" alt="aytacyaydem" /></a> </p>
 
-- 🔭 I’m currently working on [Patika Cohorts](https://cohorts.patika.dev/)
+- 🔭 I’m currently working for [Patika.dev](https://patika.dev/)
 
 - 📝 I regularly write articles on [https://aytacy.medium.com/](https://aytacy.medium.com/)
 
